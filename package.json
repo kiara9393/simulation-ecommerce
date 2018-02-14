@@ -1,0 +1,21 @@
+{
+  "name": "servernodefakeproducts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "fake-products-sj": "^1.0.1",
+    "simulation-ecommerce": "^2.0.2",
+    "supertest": "^3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Amato Chiara <chiara.amato9393@gmail.com",
+  "license": "ISC"
+}
